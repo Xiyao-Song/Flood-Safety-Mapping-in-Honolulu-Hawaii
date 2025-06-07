@@ -17,7 +17,7 @@ The goal is to provide data-driven insights for urban planning, emergency prepar
 
 - [OpenStreetMap](https://www.openstreetmap.org/) — road networks and building footprints
 - [FEMA Flood Zone Data](https://msc.fema.gov/portal/home) if included
-- Local data sources from Hawaii state GIS (if used)
+- Local data sources from Hawaii state GIS 
 
 ---
 
