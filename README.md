@@ -16,8 +16,8 @@ The goal is to provide data-driven insights for urban planning, emergency prepar
 ## 🌐 Data Sources
 
 - [OpenStreetMap](https://www.openstreetmap.org/) — road networks and building footprints
-- (Optional) [FEMA Flood Zone Data](https://msc.fema.gov/portal/home) if included
-- (Optional) Local data sources from Hawaii state GIS (if used)
+- [FEMA Flood Zone Data](https://msc.fema.gov/portal/home) if included
+- Local data sources from Hawaii state GIS (if used)
 
 ---
 
@@ -57,8 +57,7 @@ The goal is to provide data-driven insights for urban planning, emergency prepar
 ## 📝 Author
 
 **Xiyao Song**  
-Flood modeling & geospatial analysis  
-[LinkedIn (optional)](https://www.linkedin.com/) • [Website (if you want to add it)](https://)
+[LinkedIn](https://www.linkedin.com/xiyao-song) • [Website](https://osong.me)
 
 ---
 
